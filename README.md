@@ -1,85 +1,98 @@
+```markdown
 <div align="center">
 
-# DIVIJ MAZUMDAR
+# Divij
 
-### AI-Native Backend & Systems Engineer
+**AI-Native Backend & Systems Engineering**
 
-Building intelligent systems, scalable backends, and cloud-native software.
+*B.Tech in Artificial Intelligence & Data Science • KL University Hyderabad*
 
-<br>
+<br/>
 
-<a href="https://github.com/Divij-8">
-  <img src="https://img.shields.io/badge/GitHub-Divij--8-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Divij--8-181717?style=flat-square&logo=github)](https://github.com/Divij-8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:contact@divij.dev)
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Divij-8&style=flat-square&color=18181B&label=PROFILE+VIEWS" />
+---
 
 </div>
 
----
+### ── System Architecture & Philosophy
 
-## ABOUT
+I am a software engineer focused on building resilient backend systems, distributed data layers, and security-first AI infrastructure. Rather than constructing simple API wrappers around models, my work centers on high-concurrency transactional consistency, agent execution runtimes, and scalable cloud platforms.
 
-I'm a B.Tech Artificial Intelligence & Data Science student focused on building software at the intersection of **backend engineering, AI systems, cloud infrastructure, and distributed systems**.
-
-I enjoy taking ideas from architecture to implementation — designing APIs, working with data, integrating AI capabilities, and thinking about reliability, security, and deployment.
-
-### What I focus on
-
-- Backend engineering & API design
-- AI agents, RAG & MCP
-- Distributed systems
-- Cloud-native architecture
-- Databases & caching
-- Authentication & application security
-- Machine Learning & Deep Learning
+Currently pursuing a B.Tech in AI & Data Science at KL University Hyderabad, I operate at the intersection of traditional backend systems engineering and modern AI-native software architecture.
 
 ---
 
-## TECH STACK
+### ── Engineering Focus
 
-### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,sql&theme=dark" />
-</p>
+```
 
-### Backend & Data
+[ Distributed Data & Ledger Systems ] ──► [ Model Context Protocol (MCP) & Agents ] ──► [ Cloud & AppSec ]
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,postgres,redis,mysql&theme=dark" />
-</p>
+```
 
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark" />
-</p>
-
-### Frontend & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,pytorch&theme=dark" />
-</p>
+- **Backend & Distributed Systems:** Financial correctness, double-entry transactional engines, data integrity, and caching strategies.
+- **AI Infrastructure & MCP:** Security-oriented tool-use execution, Model Context Protocol integration, context retrieval, and agentic workflows.
+- **Cloud & Systems:** Automated deployment pipelines, containerization, and AWS architecture.
 
 ---
 
-## CURRENTLY BUILDING
+### ── Selected Work
 
-I'm currently going deeper into:
+| System | Stack | Focus |
+| :--- | :--- | :--- |
+| **[VaultCore](https://github.com/Divij-8/VaultCore)** | Java • Spring Boot • PostgreSQL | Double-entry distributed ledger engine emphasizing transactional correctness, concurrency, and fault tolerance. |
+| **[MarketAtlas](https://github.com/Divij-8/MarketAtlas)** | TypeScript • Python • FastAPI | AI-driven market intelligence platform integrating geospatial mapping and interactive multi-modal analysis. |
+| **[AegisMCP](https://github.com/Divij-8/AegisMCP)** | Python • MCP Architecture | Security-focused Model Context Protocol (MCP) runtime providing controlled tool exposure and execution boundaries for AI agents. |
 
-```text
-AI Agents        →  MCP, RAG, tool-use & intelligent workflows
-Backend Systems  →  APIs, distributed architecture & reliability
-Cloud            →  AWS, Docker, CI/CD & deployment
-Security         →  Secure APIs, authorization & AI infrastructure
+---
+
+### ── Tech Stack
+
+**Languages**
+`Java` • `Python` • `TypeScript` • `JavaScript` • `SQL`
+
+**Backend & Data Systems**
+`Spring Boot` • `FastAPI` • `Hono` • `PostgreSQL` • `Redis` • `MySQL` • `pgvector` • `REST APIs` • `JWT`
+
+**AI Infrastructure & Agentic Systems**
+`Model Context Protocol (MCP)` • `Agentic AI` • `RAG Architecture` • `LLM Systems` • `Machine Learning` • `Deep Learning`
+
+**Cloud & DevOps**
+`AWS` • `Docker` • `GitHub Actions` • `CI/CD`
+
+**Frontend & Tools**
+`React` • `Vite` • `Git`
+
+---
+
+### ── Certifications
+
+- **AWS Certified Cloud Practitioner** — *Completed*
+- **Automation Anywhere Certified Advanced RPA Professional** — *Completed*
+- **AWS Certified Solutions Architect – Associate** — *In Progress*
+
+---
+
+### ── Metrics & Activity
+
+<div align="center">
+  <br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Divij-8&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Divij's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divij-8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+`BUILD → BREAK → LEARN → REBUILD`
+
+</div>
+
+```
