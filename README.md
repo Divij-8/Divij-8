@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Divij
@@ -27,12 +26,8 @@ Currently pursuing a B.Tech in AI & Data Science at KL University Hyderabad, I o
 
 ### ── Engineering Focus
 
-
-```
-
 [ Distributed Data & Ledger Systems ] ──► [ Model Context Protocol (MCP) & Agents ] ──► [ Cloud & AppSec ]
 
-```
 
 - **Backend & Distributed Systems:** Financial correctness, double-entry transactional engines, data integrity, and caching strategies.
 - **AI Infrastructure & MCP:** Security-oriented tool-use execution, Model Context Protocol integration, context retrieval, and agentic workflows.
@@ -94,5 +89,3 @@ Currently pursuing a B.Tech in AI & Data Science at KL University Hyderabad, I o
 `BUILD → BREAK → LEARN → REBUILD`
 
 </div>
-
-```
