@@ -1,106 +1,120 @@
 <div align="center">
 
-<br/>
-
-# DIVIJ MAZUMDAR
+# Divij
 
 ### AI-Native Backend & Systems Engineer
 
-<sub>Backend architecture · AI agents · Cloud · Security</sub>
+Building systems at the intersection of backend architecture, intelligent agents, distributed data, cloud infrastructure, and secure AI execution.
 
-<br/>
-
-Building real systems, from transactional backends and multi-agent pipelines to the infrastructure and security around them.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Divij--8-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divij-8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-<img src="https://komarev.com/ghpvc/?username=Divij-8&style=flat-square&color=18181B&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-Divij--8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divij-8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
----
+<br />
 
-## ABOUT
+## About
 
-I'm a B.Tech student in Artificial Intelligence & Data Science at KL University, Hyderabad, and I'm aiming at AI-native backend and systems engineering.
+I am a B.Tech student in **Artificial Intelligence & Data Science** at KL University Hyderabad, focused on becoming an engineer who can build reliable systems—not just isolated AI demos.
 
-I care about the parts of software that have to be *right*: how data is modelled, how state stays consistent under concurrency, how access is controlled, and how a service behaves when something fails. I build in those areas first and layer AI capabilities on top of them.
+My work sits where backend engineering meets AI infrastructure: transactional systems, APIs, data modeling, cloud-native workflows, retrieval-augmented applications, agentic systems, and controlled AI tool execution.
 
-My work so far sits in two areas. One is transactional backends, where correctness, idempotency and concurrency control drive the design. The other is multi-agent AI pipelines that turn real-world data into structured decisions.
+I am especially interested in the engineering decisions behind real software: consistency, correctness, security boundaries, observability, database design, service contracts, and systems that remain understandable as they grow.
 
----
+> Building from backend foundations to AI-native systems—one well-designed interface, service, and data model at a time.
 
-## ENGINEERING FOCUS
+## Engineering focus
 
 <div align="center">
 
-| Backend | AI Systems | Cloud | Security | Distributed Systems |
-|:---:|:---:|:---:|:---:|:---:|
-| APIs, data modelling, transactions | Agents, RAG, MCP | AWS, containers, CI/CD | Authn/z, access control | Consistency, idempotency, concurrency |
+`Backend Architecture` &nbsp;→&nbsp; `Distributed Data` &nbsp;→&nbsp; `AI / LLM Systems` &nbsp;→&nbsp; `Cloud Infrastructure` &nbsp;→&nbsp; `Application Security`
 
 </div>
 
-<div align="center">
+<br />
 
-`Backend` → `AI` → `Cloud` → `Security` → `Distributed Systems`
+| Area | Current direction |
+|---|---|
+| **Backend systems** | Designing APIs, services, data models, transactions, and maintainable application boundaries |
+| **AI / LLM engineering** | Exploring RAG, agentic workflows, tool use, MCP, and practical LLM-enabled applications |
+| **Distributed systems** | Learning through systems where consistency, ledger correctness, and state management matter |
+| **Cloud engineering** | Developing cloud architecture and deployment fundamentals with AWS, Docker, CI/CD, and GitHub Actions |
+| **Security** | Interested in secure API design, controlled execution, authentication, authorization, and AI tool-access boundaries |
+| **Data & ML** | Applying machine learning and deep learning concepts where they solve meaningful product or systems problems |
 
-</div>
+## Selected work
 
----
-
-## TECH STACK
-
-<div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js&theme=dark" alt="Languages" /><br/>
-<sub>Java · Python · TypeScript · JavaScript · SQL</sub>
-
-<br/>
-
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" alt="Backend" /><br/>
-<sub>Spring Boot · FastAPI · REST · JWT</sub>
-
-<br/>
-
-**Data**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql&theme=dark" alt="Data" /><br/>
-<sub>PostgreSQL · Redis · MySQL</sub>
-
-<br/>
-
-**Cloud / DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions&theme=dark" alt="Cloud and DevOps" /><br/>
-<sub>AWS · Docker · GitHub Actions</sub>
-
-<br/>
-
-**AI**<br/>
-<sub>LLM applications · Agentic AI · RAG · MCP · Machine Learning · Deep Learning</sub>
-
-<br/>
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="Frontend" />
-
-</div>
-
----
-
-## SELECTED WORK
+My primary projects are pinned on this profile. They reflect the systems I am actively building and refining.
 
 | Project | Focus |
-|:---|:---|
-| [**VaultCore**](https://github.com/Divij-8/VaultCore) | Double-entry ledger in Java 21 / Spring Boot with PostgreSQL and Redis. Pessimistic locking with ordered lock acquisition, idempotent transfers, JWT auth, Testcontainers tests, and a GitHub Actions CI pipeline. |
-| [**MarketAtlas**](https://github.com/MarketAtlasX/MarketAtlas) | Multi-agent pipeline that ingests geopolitical and market events, links them to entities, pulls market data, and generates trading signals. Work in progress. |
+|---|---|
+| [**VaultCore**](https://github.com/Divij-8/VaultCore) | A double-entry ledger system exploring backend architecture, financial-data correctness, transaction handling, consistency, PostgreSQL, and Spring Boot |
+| [**MarketAtlas**](https://github.com/Divij-8/MarketAtlas) | An AI-oriented market intelligence project centered on market and geographic information exploration |
+| [**AegisMCP**](https://github.com/Divij-8/AegisMCP) | An MCP and AI-infrastructure project exploring security-oriented tool access and controlled execution |
 
----
+## Technology
 
-## CURRENTLY BUILDING / EXPLORING
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,sql,spring,fastapi,postgres,mysql,redis,react,vite,docker,aws,git,githubactions&theme=dark" alt="Java, Python, TypeScript, JavaScript, SQL, Spring Boot, FastAPI, PostgreSQL, MySQL, Redis, React, Vite, Docker, AWS, Git, GitHub Actions" />
+
+</div>
+
+<br />
+
+| Domain | Technologies |
+|---|---|
+| **Languages** | Java, Python, TypeScript, JavaScript, SQL |
+| **Backend** | Spring Boot, FastAPI, Hono, REST APIs, JWT |
+| **Data** | PostgreSQL, MySQL, Redis |
+| **AI systems** | RAG, LLM applications, agentic AI, MCP, machine learning, deep learning |
+| **Cloud & delivery** | AWS, Docker, GitHub Actions, CI/CD |
+| **Frontend** | React, Vite |
+| **Engineering tools** | Git, GitHub |
+
+## Currently exploring
+
+- Designing AI-native backend systems where LLM capabilities operate behind clear service, data, and security boundaries.
+- Building a stronger foundation in distributed-system thinking: transactions, consistency models, data integrity, and failure handling.
+- Exploring MCP as a practical interface for connecting models to tools while keeping access deliberate and controlled.
+- Developing cloud architecture skills while preparing for the AWS Solutions Architect – Associate certification.
+- Deepening application-security knowledge for APIs, authentication flows, execution environments, and AI-enabled systems.
+
+## Certifications
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-Certified%20Advanced%20RPA%20Professional-111111?style=flat-square)](https://www.automationanywhere.com/)
+
+- AWS Certified Cloud Practitioner
+- Automation Anywhere Certified Advanced RPA Professional
+- Preparing for AWS Solutions Architect – Associate
+
+## GitHub
+
+<div align="center">
+
+<a href="https://github.com/Divij-8">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Divij-8&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&ring_color=ffffff&rank_icon=github" alt="Divij's GitHub statistics" />
+</a>
+<a href="https://github.com/Divij-8">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divij-8&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Most used languages" />
+</a>
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divij-8&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity" />
+
+</div>
+
+## Connect
+
+<div align="center">
+
+[GitHub](https://github.com/Divij-8) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/) &nbsp;·&nbsp; [Email](mailto:your-email@example.com)
+
+<br />
+
+`BUILD → BREAK → LEARN → REBUILD`
+
+</div>
