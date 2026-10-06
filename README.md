@@ -131,7 +131,7 @@ The project focuses on questions such as:
 - Where should execution boundaries exist?
 - How can tool activity be observed and audited?
 
-**Currently building.**
+[View Repository →](https://github.com/Divij-8/AegisMCP)
 
 ---
 
