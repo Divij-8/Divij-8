@@ -270,10 +270,6 @@ INFRASTRUCTURE
 
 <img src="https://streak-stats.demolab.com?user=Divij-8&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=21262D&border=21262D&border_radius=8" height="165"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divij-8&bg_color=0D1117&color=8B949E&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true" width="95%"/>
-
 </div>
 
 ---
